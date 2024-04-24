@@ -1,0 +1,186 @@
+country,alpha_2_code,alpha_3_code,numeric_code,indicator,year,obs_value,sex,unit_multiplier,unit_of_measure,observation_status,observation_confidentaility,time_period_activity_related_to_when_the_data_are_collected,current_age
+Afghanistan,AF,AFG,4,"Maternal mortality ratio (number of maternal deaths per 100,000 live births)",2020,620,Total,Units,Number,Modelled,Free,,Total
+Albania,AL,ALB,8,"Maternal mortality ratio (number of maternal deaths per 100,000 live births)",2020,8,Total,Units,Number,Modelled,Free,,Total
+Algeria,DZ,DZA,12,"Maternal mortality ratio (number of maternal deaths per 100,000 live births)",2020,78,Total,Units,Number,Modelled,Free,,Total
+Angola,AO,AGO,24,"Maternal mortality ratio (number of maternal deaths per 100,000 live births)",2020,222,Total,Units,Number,Modelled,Free,,Total
+Antigua and Barbuda,AG,ATG,28,"Maternal mortality ratio (number of maternal deaths per 100,000 live births)",2020,21,Total,Units,Number,Modelled,Free,,Total
+Argentina,AR,ARG,32,"Maternal mortality ratio (number of maternal deaths per 100,000 live births)",2020,45,Total,Units,Number,Modelled,Free,,Total
+Armenia,AM,ARM,51,"Maternal mortality ratio (number of maternal deaths per 100,000 live births)",2020,27,Total,Units,Number,Modelled,Free,,Total
+Australia,AU,AUS,36,"Maternal mortality ratio (number of maternal deaths per 100,000 live births)",2020,3,Total,Units,Number,Modelled,Free,,Total
+Austria,AT,AUT,40,"Maternal mortality ratio (number of maternal deaths per 100,000 live births)",2020,5,Total,Units,Number,Modelled,Free,,Total
+Azerbaijan,AZ,AZE,31,"Maternal mortality ratio (number of maternal deaths per 100,000 live births)",2020,41,Total,Units,Number,Modelled,Free,,Total
+Bahamas,BS,BHS,44,"Maternal mortality ratio (number of maternal deaths per 100,000 live births)",2020,77,Total,Units,Number,Modelled,Free,,Total
+Bahrain,BH,BHR,48,"Maternal mortality ratio (number of maternal deaths per 100,000 live births)",2020,16,Total,Units,Number,Modelled,Free,,Total
+Bangladesh,BD,BGD,50,"Maternal mortality ratio (number of maternal deaths per 100,000 live births)",2020,123,Total,Units,Number,Modelled,Free,,Total
+Barbados,BB,BRB,52,"Maternal mortality ratio (number of maternal deaths per 100,000 live births)",2020,39,Total,Units,Number,Modelled,Free,,Total
+Belarus,BY,BLR,112,"Maternal mortality ratio (number of maternal deaths per 100,000 live births)",2020,1,Total,Units,Number,Modelled,Free,,Total
+Belgium,BE,BEL,56,"Maternal mortality ratio (number of maternal deaths per 100,000 live births)",2020,5,Total,Units,Number,Modelled,Free,,Total
+Belize,BZ,BLZ,84,"Maternal mortality ratio (number of maternal deaths per 100,000 live births)",2020,130,Total,Units,Number,Modelled,Free,,Total
+Benin,BJ,BEN,204,"Maternal mortality ratio (number of maternal deaths per 100,000 live births)",2020,523,Total,Units,Number,Modelled,Free,,Total
+Bhutan,BT,BTN,64,"Maternal mortality ratio (number of maternal deaths per 100,000 live births)",2020,60,Total,Units,Number,Modelled,Free,,Total
+"Bolivia, Plurinational State of",BO,BOL,68,"Maternal mortality ratio (number of maternal deaths per 100,000 live births)",2020,161,Total,Units,Number,Modelled,Free,,Total
+Bosnia and Herzegovina,BA,BIH,70,"Maternal mortality ratio (number of maternal deaths per 100,000 live births)",2020,6,Total,Units,Number,Modelled,Free,,Total
+Botswana,BW,BWA,72,"Maternal mortality ratio (number of maternal deaths per 100,000 live births)",2020,186,Total,Units,Number,Modelled,Free,,Total
+Brazil,BR,BRA,76,"Maternal mortality ratio (number of maternal deaths per 100,000 live births)",2020,72,Total,Units,Number,Modelled,Free,,Total
+Brunei,BN,BRN,96,"Maternal mortality ratio (number of maternal deaths per 100,000 live births)",2020,44,Total,Units,Number,Modelled,Free,,Total
+Bulgaria,BG,BGR,100,"Maternal mortality ratio (number of maternal deaths per 100,000 live births)",2020,7,Total,Units,Number,Modelled,Free,,Total
+Burkina Faso,BF,BFA,854,"Maternal mortality ratio (number of maternal deaths per 100,000 live births)",2020,264,Total,Units,Number,Modelled,Free,,Total
+Burundi,BI,BDI,108,"Maternal mortality ratio (number of maternal deaths per 100,000 live births)",2020,494,Total,Units,Number,Modelled,Free,,Total
+Cape Verde,CV,CPV,132,"Maternal mortality ratio (number of maternal deaths per 100,000 live births)",2020,42,Total,Units,Number,Modelled,Free,,Total
+Cambodia,KH,KHM,116,"Maternal mortality ratio (number of maternal deaths per 100,000 live births)",2020,218,Total,Units,Number,Modelled,Free,,Total
+Cameroon,CM,CMR,120,"Maternal mortality ratio (number of maternal deaths per 100,000 live births)",2020,438,Total,Units,Number,Modelled,Free,,Total
+Canada,CA,CAN,124,"Maternal mortality ratio (number of maternal deaths per 100,000 live births)",2020,11,Total,Units,Number,Modelled,Free,,Total
+Central African Republic,CF,CAF,140,"Maternal mortality ratio (number of maternal deaths per 100,000 live births)",2020,835,Total,Units,Number,Modelled,Free,,Total
+Chad,TD,TCD,148,"Maternal mortality ratio (number of maternal deaths per 100,000 live births)",2020,1063,Total,Units,Number,Modelled,Free,,Total
+Chile,CL,CHL,152,"Maternal mortality ratio (number of maternal deaths per 100,000 live births)",2020,15,Total,Units,Number,Modelled,Free,,Total
+China,CN,CHN,156,"Maternal mortality ratio (number of maternal deaths per 100,000 live births)",2020,23,Total,Units,Number,Modelled,Free,,Total
+Colombia,CO,COL,170,"Maternal mortality ratio (number of maternal deaths per 100,000 live births)",2020,75,Total,Units,Number,Modelled,Free,,Total
+Comoros,KM,COM,174,"Maternal mortality ratio (number of maternal deaths per 100,000 live births)",2020,217,Total,Units,Number,Modelled,Free,,Total
+Congo,CG,COG,178,"Maternal mortality ratio (number of maternal deaths per 100,000 live births)",2020,282,Total,Units,Number,Modelled,Free,,Total
+Costa Rica,CR,CRI,188,"Maternal mortality ratio (number of maternal deaths per 100,000 live births)",2020,22,Total,Units,Number,Modelled,Free,,Total
+Croatia,HR,HRV,191,"Maternal mortality ratio (number of maternal deaths per 100,000 live births)",2020,5,Total,Units,Number,Modelled,Free,,Total
+Cuba,CU,CUB,192,"Maternal mortality ratio (number of maternal deaths per 100,000 live births)",2020,39,Total,Units,Number,Modelled,Free,,Total
+Cyprus,CY,CYP,196,"Maternal mortality ratio (number of maternal deaths per 100,000 live births)",2020,68,Total,Units,Number,Modelled,Free,,Total
+Czech Republic,CZ,CZE,203,"Maternal mortality ratio (number of maternal deaths per 100,000 live births)",2020,3,Total,Units,Number,Modelled,Free,,Total
+Ivory Coast,CI,CIV,384,"Maternal mortality ratio (number of maternal deaths per 100,000 live births)",2020,480,Total,Units,Number,Modelled,Free,,Total
+"Korea, Democratic People's Republic of",KP,PRK,408,"Maternal mortality ratio (number of maternal deaths per 100,000 live births)",2020,107,Total,Units,Number,Modelled,Free,,Total
+"Congo, the Democratic Republic of the",CD,COD,180,"Maternal mortality ratio (number of maternal deaths per 100,000 live births)",2020,547,Total,Units,Number,Modelled,Free,,Total
+Denmark,DK,DNK,208,"Maternal mortality ratio (number of maternal deaths per 100,000 live births)",2020,5,Total,Units,Number,Modelled,Free,,Total
+Djibouti,DJ,DJI,262,"Maternal mortality ratio (number of maternal deaths per 100,000 live births)",2020,234,Total,Units,Number,Modelled,Free,,Total
+Dominican Republic,DO,DOM,214,"Maternal mortality ratio (number of maternal deaths per 100,000 live births)",2020,107,Total,Units,Number,Modelled,Free,,Total
+Ecuador,EC,ECU,218,"Maternal mortality ratio (number of maternal deaths per 100,000 live births)",2020,66,Total,Units,Number,Modelled,Free,,Total
+Egypt,EG,EGY,818,"Maternal mortality ratio (number of maternal deaths per 100,000 live births)",2020,17,Total,Units,Number,Modelled,Free,,Total
+El Salvador,SV,SLV,222,"Maternal mortality ratio (number of maternal deaths per 100,000 live births)",2020,43,Total,Units,Number,Modelled,Free,,Total
+Equatorial Guinea,GQ,GNQ,226,"Maternal mortality ratio (number of maternal deaths per 100,000 live births)",2020,212,Total,Units,Number,Modelled,Free,,Total
+Eritrea,ER,ERI,232,"Maternal mortality ratio (number of maternal deaths per 100,000 live births)",2020,322,Total,Units,Number,Modelled,Free,,Total
+Estonia,EE,EST,233,"Maternal mortality ratio (number of maternal deaths per 100,000 live births)",2020,5,Total,Units,Number,Modelled,Free,,Total
+Swaziland,SZ,SWZ,748,"Maternal mortality ratio (number of maternal deaths per 100,000 live births)",2020,240,Total,Units,Number,Modelled,Free,,Total
+Ethiopia,ET,ETH,231,"Maternal mortality ratio (number of maternal deaths per 100,000 live births)",2020,267,Total,Units,Number,Modelled,Free,,Total
+Fiji,FJ,FJI,242,"Maternal mortality ratio (number of maternal deaths per 100,000 live births)",2020,38,Total,Units,Number,Modelled,Free,,Total
+Finland,FI,FIN,246,"Maternal mortality ratio (number of maternal deaths per 100,000 live births)",2020,8,Total,Units,Number,Modelled,Free,,Total
+France,FR,FRA,250,"Maternal mortality ratio (number of maternal deaths per 100,000 live births)",2020,8,Total,Units,Number,Modelled,Free,,Total
+Gabon,GA,GAB,266,"Maternal mortality ratio (number of maternal deaths per 100,000 live births)",2020,227,Total,Units,Number,Modelled,Free,,Total
+Gambia,GM,GMB,270,"Maternal mortality ratio (number of maternal deaths per 100,000 live births)",2020,458,Total,Units,Number,Modelled,Free,,Total
+Georgia,GE,GEO,268,"Maternal mortality ratio (number of maternal deaths per 100,000 live births)",2020,28,Total,Units,Number,Modelled,Free,,Total
+Germany,DE,DEU,276,"Maternal mortality ratio (number of maternal deaths per 100,000 live births)",2020,4,Total,Units,Number,Modelled,Free,,Total
+Ghana,GH,GHA,288,"Maternal mortality ratio (number of maternal deaths per 100,000 live births)",2020,263,Total,Units,Number,Modelled,Free,,Total
+Greece,GR,GRC,300,"Maternal mortality ratio (number of maternal deaths per 100,000 live births)",2020,8,Total,Units,Number,Modelled,Free,,Total
+Grenada,GD,GRD,308,"Maternal mortality ratio (number of maternal deaths per 100,000 live births)",2020,21,Total,Units,Number,Modelled,Free,,Total
+Guatemala,GT,GTM,320,"Maternal mortality ratio (number of maternal deaths per 100,000 live births)",2020,96,Total,Units,Number,Modelled,Free,,Total
+Guinea,GN,GIN,324,"Maternal mortality ratio (number of maternal deaths per 100,000 live births)",2020,553,Total,Units,Number,Modelled,Free,,Total
+Guinea-Bissau,GW,GNB,624,"Maternal mortality ratio (number of maternal deaths per 100,000 live births)",2020,725,Total,Units,Number,Modelled,Free,,Total
+Guyana,GY,GUY,328,"Maternal mortality ratio (number of maternal deaths per 100,000 live births)",2020,112,Total,Units,Number,Modelled,Free,,Total
+Haiti,HT,HTI,332,"Maternal mortality ratio (number of maternal deaths per 100,000 live births)",2020,350,Total,Units,Number,Modelled,Free,,Total
+Honduras,HN,HND,340,"Maternal mortality ratio (number of maternal deaths per 100,000 live births)",2020,72,Total,Units,Number,Modelled,Free,,Total
+Hungary,HU,HUN,348,"Maternal mortality ratio (number of maternal deaths per 100,000 live births)",2020,15,Total,Units,Number,Modelled,Free,,Total
+Iceland,IS,ISL,352,"Maternal mortality ratio (number of maternal deaths per 100,000 live births)",2020,3,Total,Units,Number,Modelled,Free,,Total
+India,IN,IND,356,"Maternal mortality ratio (number of maternal deaths per 100,000 live births)",2020,103,Total,Units,Number,Modelled,Free,,Total
+Indonesia,ID,IDN,360,"Maternal mortality ratio (number of maternal deaths per 100,000 live births)",2020,173,Total,Units,Number,Modelled,Free,,Total
+"Iran, Islamic Republic of",IR,IRN,364,"Maternal mortality ratio (number of maternal deaths per 100,000 live births)",2020,22,Total,Units,Number,Modelled,Free,,Total
+Iraq,IQ,IRQ,368,"Maternal mortality ratio (number of maternal deaths per 100,000 live births)",2020,76,Total,Units,Number,Modelled,Free,,Total
+Ireland,IE,IRL,372,"Maternal mortality ratio (number of maternal deaths per 100,000 live births)",2020,5,Total,Units,Number,Modelled,Free,,Total
+Israel,IL,ISR,376,"Maternal mortality ratio (number of maternal deaths per 100,000 live births)",2020,3,Total,Units,Number,Modelled,Free,,Total
+Italy,IT,ITA,380,"Maternal mortality ratio (number of maternal deaths per 100,000 live births)",2020,5,Total,Units,Number,Modelled,Free,,Total
+Jamaica,JM,JAM,388,"Maternal mortality ratio (number of maternal deaths per 100,000 live births)",2020,99,Total,Units,Number,Modelled,Free,,Total
+Japan,JP,JPN,392,"Maternal mortality ratio (number of maternal deaths per 100,000 live births)",2020,4,Total,Units,Number,Modelled,Free,,Total
+Jordan,JO,JOR,400,"Maternal mortality ratio (number of maternal deaths per 100,000 live births)",2020,41,Total,Units,Number,Modelled,Free,,Total
+Kazakhstan,KZ,KAZ,398,"Maternal mortality ratio (number of maternal deaths per 100,000 live births)",2020,13,Total,Units,Number,Modelled,Free,,Total
+Kenya,KE,KEN,404,"Maternal mortality ratio (number of maternal deaths per 100,000 live births)",2020,530,Total,Units,Number,Modelled,Free,,Total
+Kiribati,KI,KIR,296,"Maternal mortality ratio (number of maternal deaths per 100,000 live births)",2020,76,Total,Units,Number,Modelled,Free,,Total
+Kuwait,KW,KWT,414,"Maternal mortality ratio (number of maternal deaths per 100,000 live births)",2020,7,Total,Units,Number,Modelled,Free,,Total
+Kyrgyzstan,KG,KGZ,417,"Maternal mortality ratio (number of maternal deaths per 100,000 live births)",2020,50,Total,Units,Number,Modelled,Free,,Total
+Lao People's Democratic Republic,LA,LAO,418,"Maternal mortality ratio (number of maternal deaths per 100,000 live births)",2020,126,Total,Units,Number,Modelled,Free,,Total
+Latvia,LV,LVA,428,"Maternal mortality ratio (number of maternal deaths per 100,000 live births)",2020,18,Total,Units,Number,Modelled,Free,,Total
+Lebanon,LB,LBN,422,"Maternal mortality ratio (number of maternal deaths per 100,000 live births)",2020,21,Total,Units,Number,Modelled,Free,,Total
+Lesotho,LS,LSO,426,"Maternal mortality ratio (number of maternal deaths per 100,000 live births)",2020,566,Total,Units,Number,Modelled,Free,,Total
+Liberia,LR,LBR,430,"Maternal mortality ratio (number of maternal deaths per 100,000 live births)",2020,652,Total,Units,Number,Modelled,Free,,Total
+Libyan Arab Jamahiriya,LY,LBY,434,"Maternal mortality ratio (number of maternal deaths per 100,000 live births)",2020,72,Total,Units,Number,Modelled,Free,,Total
+Lithuania,LT,LTU,440,"Maternal mortality ratio (number of maternal deaths per 100,000 live births)",2020,9,Total,Units,Number,Modelled,Free,,Total
+Luxembourg,LU,LUX,442,"Maternal mortality ratio (number of maternal deaths per 100,000 live births)",2020,6,Total,Units,Number,Modelled,Free,,Total
+Madagascar,MG,MDG,450,"Maternal mortality ratio (number of maternal deaths per 100,000 live births)",2020,392,Total,Units,Number,Modelled,Free,,Total
+Malawi,MW,MWI,454,"Maternal mortality ratio (number of maternal deaths per 100,000 live births)",2020,381,Total,Units,Number,Modelled,Free,,Total
+Malaysia,MY,MYS,458,"Maternal mortality ratio (number of maternal deaths per 100,000 live births)",2020,21,Total,Units,Number,Modelled,Free,,Total
+Maldives,MV,MDV,462,"Maternal mortality ratio (number of maternal deaths per 100,000 live births)",2020,57,Total,Units,Number,Modelled,Free,,Total
+Mali,ML,MLI,466,"Maternal mortality ratio (number of maternal deaths per 100,000 live births)",2020,440,Total,Units,Number,Modelled,Free,,Total
+Malta,MT,MLT,470,"Maternal mortality ratio (number of maternal deaths per 100,000 live births)",2020,3,Total,Units,Number,Modelled,Free,,Total
+Mauritania,MR,MRT,478,"Maternal mortality ratio (number of maternal deaths per 100,000 live births)",2020,464,Total,Units,Number,Modelled,Free,,Total
+Mauritius,MU,MUS,480,"Maternal mortality ratio (number of maternal deaths per 100,000 live births)",2020,84,Total,Units,Number,Modelled,Free,,Total
+Mexico,MX,MEX,484,"Maternal mortality ratio (number of maternal deaths per 100,000 live births)",2020,59,Total,Units,Number,Modelled,Free,,Total
+"Micronesia, Federated States of",FM,FSM,583,"Maternal mortality ratio (number of maternal deaths per 100,000 live births)",2020,74,Total,Units,Number,Modelled,Free,,Total
+Mongolia,MN,MNG,496,"Maternal mortality ratio (number of maternal deaths per 100,000 live births)",2020,39,Total,Units,Number,Modelled,Free,,Total
+Montenegro,ME,MNE,499,"Maternal mortality ratio (number of maternal deaths per 100,000 live births)",2020,6,Total,Units,Number,Modelled,Free,,Total
+Morocco,MA,MAR,504,"Maternal mortality ratio (number of maternal deaths per 100,000 live births)",2020,72,Total,Units,Number,Modelled,Free,,Total
+Mozambique,MZ,MOZ,508,"Maternal mortality ratio (number of maternal deaths per 100,000 live births)",2020,127,Total,Units,Number,Modelled,Free,,Total
+Burma,MM,MMR,104,"Maternal mortality ratio (number of maternal deaths per 100,000 live births)",2020,179,Total,Units,Number,Modelled,Free,,Total
+Namibia,,NAM,516,"Maternal mortality ratio (number of maternal deaths per 100,000 live births)",2020,215,Total,Units,Number,Modelled,Free,,Total
+Nepal,NP,NPL,524,"Maternal mortality ratio (number of maternal deaths per 100,000 live births)",2020,174,Total,Units,Number,Modelled,Free,,Total
+Netherlands,NL,NLD,528,"Maternal mortality ratio (number of maternal deaths per 100,000 live births)",2020,4,Total,Units,Number,Modelled,Free,,Total
+New Zealand,NZ,NZL,554,"Maternal mortality ratio (number of maternal deaths per 100,000 live births)",2020,7,Total,Units,Number,Modelled,Free,,Total
+Nicaragua,NI,NIC,558,"Maternal mortality ratio (number of maternal deaths per 100,000 live births)",2020,78,Total,Units,Number,Modelled,Free,,Total
+Niger,NE,NER,562,"Maternal mortality ratio (number of maternal deaths per 100,000 live births)",2020,441,Total,Units,Number,Modelled,Free,,Total
+Nigeria,NG,NGA,566,"Maternal mortality ratio (number of maternal deaths per 100,000 live births)",2020,1047,Total,Units,Number,Modelled,Free,,Total
+"Macedonia, the former Yugoslav Republic of",MK,MKD,807,"Maternal mortality ratio (number of maternal deaths per 100,000 live births)",2020,3,Total,Units,Number,Modelled,Free,,Total
+Norway,NO,NOR,578,"Maternal mortality ratio (number of maternal deaths per 100,000 live births)",2020,2,Total,Units,Number,Modelled,Free,,Total
+Oman,OM,OMN,512,"Maternal mortality ratio (number of maternal deaths per 100,000 live births)",2020,17,Total,Units,Number,Modelled,Free,,Total
+Pakistan,PK,PAK,586,"Maternal mortality ratio (number of maternal deaths per 100,000 live births)",2020,154,Total,Units,Number,Modelled,Free,,Total
+Panama,PA,PAN,591,"Maternal mortality ratio (number of maternal deaths per 100,000 live births)",2020,50,Total,Units,Number,Modelled,Free,,Total
+Papua New Guinea,PG,PNG,598,"Maternal mortality ratio (number of maternal deaths per 100,000 live births)",2020,192,Total,Units,Number,Modelled,Free,,Total
+Paraguay,PY,PRY,600,"Maternal mortality ratio (number of maternal deaths per 100,000 live births)",2020,71,Total,Units,Number,Modelled,Free,,Total
+Peru,PE,PER,604,"Maternal mortality ratio (number of maternal deaths per 100,000 live births)",2020,69,Total,Units,Number,Modelled,Free,,Total
+Philippines,PH,PHL,608,"Maternal mortality ratio (number of maternal deaths per 100,000 live births)",2020,78,Total,Units,Number,Modelled,Free,,Total
+Poland,PL,POL,616,"Maternal mortality ratio (number of maternal deaths per 100,000 live births)",2020,2,Total,Units,Number,Modelled,Free,,Total
+Portugal,PT,PRT,620,"Maternal mortality ratio (number of maternal deaths per 100,000 live births)",2020,12,Total,Units,Number,Modelled,Free,,Total
+Puerto Rico,PR,PRI,630,"Maternal mortality ratio (number of maternal deaths per 100,000 live births)",2020,34,Total,Units,Number,Modelled,Free,,Total
+Qatar,QA,QAT,634,"Maternal mortality ratio (number of maternal deaths per 100,000 live births)",2020,8,Total,Units,Number,Modelled,Free,,Total
+South Korea,KR,KOR,410,"Maternal mortality ratio (number of maternal deaths per 100,000 live births)",2020,8,Total,Units,Number,Modelled,Free,,Total
+"Moldova, Republic of",MD,MDA,498,"Maternal mortality ratio (number of maternal deaths per 100,000 live births)",2020,12,Total,Units,Number,Modelled,Free,,Total
+Romania,RO,ROU,642,"Maternal mortality ratio (number of maternal deaths per 100,000 live births)",2020,10,Total,Units,Number,Modelled,Free,,Total
+Russia,RU,RUS,643,"Maternal mortality ratio (number of maternal deaths per 100,000 live births)",2020,14,Total,Units,Number,Modelled,Free,,Total
+Rwanda,RW,RWA,646,"Maternal mortality ratio (number of maternal deaths per 100,000 live births)",2020,259,Total,Units,Number,Modelled,Free,,Total
+Saint Lucia,LC,LCA,662,"Maternal mortality ratio (number of maternal deaths per 100,000 live births)",2020,73,Total,Units,Number,Modelled,Free,,Total
+Saint Vincent and the Grenadines,VC,VCT,670,"Maternal mortality ratio (number of maternal deaths per 100,000 live births)",2020,62,Total,Units,Number,Modelled,Free,,Total
+Samoa,WS,WSM,882,"Maternal mortality ratio (number of maternal deaths per 100,000 live births)",2020,59,Total,Units,Number,Modelled,Free,,Total
+Sao Tome and Principe,ST,STP,678,"Maternal mortality ratio (number of maternal deaths per 100,000 live births)",2020,146,Total,Units,Number,Modelled,Free,,Total
+Saudi Arabia,SA,SAU,682,"Maternal mortality ratio (number of maternal deaths per 100,000 live births)",2020,16,Total,Units,Number,Modelled,Free,,Total
+Senegal,SN,SEN,686,"Maternal mortality ratio (number of maternal deaths per 100,000 live births)",2020,261,Total,Units,Number,Modelled,Free,,Total
+Serbia,RS,SRB,688,"Maternal mortality ratio (number of maternal deaths per 100,000 live births)",2020,10,Total,Units,Number,Modelled,Free,,Total
+Seychelles,SC,SYC,690,"Maternal mortality ratio (number of maternal deaths per 100,000 live births)",2020,3,Total,Units,Number,Modelled,Free,,Total
+Sierra Leone,SL,SLE,694,"Maternal mortality ratio (number of maternal deaths per 100,000 live births)",2020,443,Total,Units,Number,Modelled,Free,,Total
+Singapore,SG,SGP,702,"Maternal mortality ratio (number of maternal deaths per 100,000 live births)",2020,7,Total,Units,Number,Modelled,Free,,Total
+Slovakia,SK,SVK,703,"Maternal mortality ratio (number of maternal deaths per 100,000 live births)",2020,5,Total,Units,Number,Modelled,Free,,Total
+Slovenia,SI,SVN,705,"Maternal mortality ratio (number of maternal deaths per 100,000 live births)",2020,5,Total,Units,Number,Modelled,Free,,Total
+Solomon Islands,SB,SLB,90,"Maternal mortality ratio (number of maternal deaths per 100,000 live births)",2020,122,Total,Units,Number,Modelled,Free,,Total
+Somalia,SO,SOM,706,"Maternal mortality ratio (number of maternal deaths per 100,000 live births)",2020,621,Total,Units,Number,Modelled,Free,,Total
+South Africa,ZA,ZAF,710,"Maternal mortality ratio (number of maternal deaths per 100,000 live births)",2020,127,Total,Units,Number,Modelled,Free,,Total
+South Sudan,SS,SSD,728,"Maternal mortality ratio (number of maternal deaths per 100,000 live births)",2020,1223,Total,Units,Number,Modelled,Free,,Total
+Spain,ES,ESP,724,"Maternal mortality ratio (number of maternal deaths per 100,000 live births)",2020,3,Total,Units,Number,Modelled,Free,,Total
+Sri Lanka,LK,LKA,144,"Maternal mortality ratio (number of maternal deaths per 100,000 live births)",2020,29,Total,Units,Number,Modelled,Free,,Total
+"Palestinian Territory, Occupied",PS,PSE,275,"Maternal mortality ratio (number of maternal deaths per 100,000 live births)",2020,20,Total,Units,Number,Modelled,Free,,Total
+Sudan,SD,SDN,736,"Maternal mortality ratio (number of maternal deaths per 100,000 live births)",2020,270,Total,Units,Number,Modelled,Free,,Total
+Suriname,SR,SUR,740,"Maternal mortality ratio (number of maternal deaths per 100,000 live births)",2020,96,Total,Units,Number,Modelled,Free,,Total
+Sweden,SE,SWE,752,"Maternal mortality ratio (number of maternal deaths per 100,000 live births)",2020,5,Total,Units,Number,Modelled,Free,,Total
+Switzerland,CH,CHE,756,"Maternal mortality ratio (number of maternal deaths per 100,000 live births)",2020,7,Total,Units,Number,Modelled,Free,,Total
+Syrian Arab Republic,SY,SYR,760,"Maternal mortality ratio (number of maternal deaths per 100,000 live births)",2020,30,Total,Units,Number,Modelled,Free,,Total
+Tajikistan,TJ,TJK,762,"Maternal mortality ratio (number of maternal deaths per 100,000 live births)",2020,17,Total,Units,Number,Modelled,Free,,Total
+Thailand,TH,THA,764,"Maternal mortality ratio (number of maternal deaths per 100,000 live births)",2020,29,Total,Units,Number,Modelled,Free,,Total
+Timor-Leste,TL,TLS,626,"Maternal mortality ratio (number of maternal deaths per 100,000 live births)",2020,204,Total,Units,Number,Modelled,Free,,Total
+Togo,TG,TGO,768,"Maternal mortality ratio (number of maternal deaths per 100,000 live births)",2020,399,Total,Units,Number,Modelled,Free,,Total
+Tonga,TO,TON,776,"Maternal mortality ratio (number of maternal deaths per 100,000 live births)",2020,126,Total,Units,Number,Modelled,Free,,Total
+Trinidad and Tobago,TT,TTO,780,"Maternal mortality ratio (number of maternal deaths per 100,000 live births)",2020,27,Total,Units,Number,Modelled,Free,,Total
+Tunisia,TN,TUN,788,"Maternal mortality ratio (number of maternal deaths per 100,000 live births)",2020,37,Total,Units,Number,Modelled,Free,,Total
+Turkmenistan,TM,TKM,795,"Maternal mortality ratio (number of maternal deaths per 100,000 live births)",2020,5,Total,Units,Number,Modelled,Free,,Total
+Turkey,TR,TUR,792,"Maternal mortality ratio (number of maternal deaths per 100,000 live births)",2020,17,Total,Units,Number,Modelled,Free,,Total
+Uganda,UG,UGA,800,"Maternal mortality ratio (number of maternal deaths per 100,000 live births)",2020,284,Total,Units,Number,Modelled,Free,,Total
+Ukraine,UA,UKR,804,"Maternal mortality ratio (number of maternal deaths per 100,000 live births)",2020,17,Total,Units,Number,Modelled,Free,,Total
+United Arab Emirates,AE,ARE,784,"Maternal mortality ratio (number of maternal deaths per 100,000 live births)",2020,9,Total,Units,Number,Modelled,Free,,Total
+United Kingdom,GB,GBR,826,"Maternal mortality ratio (number of maternal deaths per 100,000 live births)",2020,10,Total,Units,Number,Modelled,Free,,Total
+"Tanzania, United Republic of",TZ,TZA,834,"Maternal mortality ratio (number of maternal deaths per 100,000 live births)",2020,238,Total,Units,Number,Modelled,Free,,Total
+United States,US,USA,840,"Maternal mortality ratio (number of maternal deaths per 100,000 live births)",2020,21,Total,Units,Number,Modelled,Free,,Total
+Uruguay,UY,URY,858,"Maternal mortality ratio (number of maternal deaths per 100,000 live births)",2020,19,Total,Units,Number,Modelled,Free,,Total
+Uzbekistan,UZ,UZB,860,"Maternal mortality ratio (number of maternal deaths per 100,000 live births)",2020,30,Total,Units,Number,Modelled,Free,,Total
+Vanuatu,VU,VUT,548,"Maternal mortality ratio (number of maternal deaths per 100,000 live births)",2020,94,Total,Units,Number,Modelled,Free,,Total
+"Venezuela, Bolivarian Republic of",VE,VEN,862,"Maternal mortality ratio (number of maternal deaths per 100,000 live births)",2020,259,Total,Units,Number,Modelled,Free,,Total
+Viet Nam,VN,VNM,704,"Maternal mortality ratio (number of maternal deaths per 100,000 live births)",2020,124,Total,Units,Number,Modelled,Free,,Total
+Yemen,YE,YEM,887,"Maternal mortality ratio (number of maternal deaths per 100,000 live births)",2020,183,Total,Units,Number,Modelled,Free,,Total
+Zambia,ZM,ZMB,894,"Maternal mortality ratio (number of maternal deaths per 100,000 live births)",2020,135,Total,Units,Number,Modelled,Free,,Total
+Zimbabwe,ZW,ZWE,716,"Maternal mortality ratio (number of maternal deaths per 100,000 live births)",2020,357,Total,Units,Number,Modelled,Free,,Total
